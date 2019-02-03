@@ -1,0 +1,23 @@
+{
+  "name": "wordguess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joann675/wordGuess.git"
+  },
+  "author": "JoAnn Ireland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joann675/wordGuess/issues"
+  },
+  "homepage": "https://github.com/joann675/wordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "random-words": "^1.1.0"
+  }
+}
